@@ -107,3 +107,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.xml
+.idea/.name
+*.iml
